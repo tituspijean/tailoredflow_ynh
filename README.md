@@ -1,6 +1,6 @@
 # TailoredFlow Webapp for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/tailored_flow.svg)](https://dash.yunohost.org/appci/app/tailored_flow) ![](https://ci-apps.yunohost.org/ci/badgestailored_flow.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/tailored_flow.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/tailoredflow.svg)](https://dash.yunohost.org/appci/app/tailoredflow) ![](https://ci-apps.yunohost.org/ci/badges/tailoredflow.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/tailoredflow.maintain.svg)  
 [![Install Tailored Flow with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=tailoredflow)
 
 > *This package allow you to install Tailored Flow quickly and simply on a YunoHost server.  
